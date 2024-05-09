@@ -20,3 +20,4 @@ sudo apt update -y
 sudo apt install -t 'o=LP-PPA-mozillateam' firefox -y
 echo 'Unattended-Upgrade::Allowed-Origins:: "LP-PPA-mozillateam:${distro_codename}";' | sudo tee /etc/apt/apt.conf.d/51unattended-upgrades-firefox
 sudo echo -e "Package: firefox*\nPin: release o=LP-PPA-mozillateam\nPin-Priority: 501" >> /etc/apt/preferences.d/mozillateamppa
+reboot
