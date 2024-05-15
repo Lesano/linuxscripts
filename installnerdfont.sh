@@ -9,5 +9,5 @@ echo "4) Moving all fonts..."
 sudo mv *.ttf /usr/share/fonts
 cd ..
 echo "5) Cleaning up..."
-rm -rf firacode && rm -rf Firacode.zip
+rm -rf firacode && rm -rf FiraCode.zip
 echo "6) Done!"
