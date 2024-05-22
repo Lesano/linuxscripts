@@ -7,4 +7,4 @@ wget https://raw.githubusercontent.com/Lesano/linuxscripts/main/removersnap.sh &
 wget https://raw.githubusercontent.com/Lesano/linuxscripts/main/installnerdfont.sh && chmod +x installnerdfont.sh && sudo ./installnerdfont.sh
 
 # Script to install Linux Mint themes on Arch with Cinnamon desktop.
-wget https://raw.githubusercontent.com/Lesano/linuxscripts/main/lmthemes.sh && chmod +x installnerdfont.sh && sudo ./lmthemes.sh
+wget https://raw.githubusercontent.com/Lesano/linuxscripts/main/lmthemes.sh && chmod +x lmthemes.sh && sudo ./lmthemes.sh
