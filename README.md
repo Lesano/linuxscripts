@@ -9,3 +9,5 @@ curl -s https://raw.githubusercontent.com/Lesano/linuxscripts/main/installnerdfo
 # Script to install Linux Mint themes on Arch with Cinnamon desktop.
 curl -s https://raw.githubusercontent.com/Lesano/linuxscripts/main/lmthemes.sh | sudo bash
 
+# Script to fix and show actual wallpaper on LightDM Slick.
+curl -s https://raw.githubusercontent.com/Lesano/linuxscripts/main/fixldmslick.sh | sudo bash
